@@ -1,0 +1,8 @@
+chair;;15;;50
+desk;;20;;120
+bench;;35;;200
+computer;;650;;120
+stereo;;75;;600
+couch;;50;;50
+speakers;;15;;320
+table;;30;;80
